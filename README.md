@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Run the JSON server 
 
-Run `npm run servere` for a JSON server. Navigate to `http://localhost:5000/`. 
+Run `npm run server` for a JSON server. Navigate to `http://localhost:5000/`. 
 
 ## Code scaffolding
 
