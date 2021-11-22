@@ -1,7 +1,7 @@
 # Angular To Do Add List
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3. </br>
-I followed the project step by step made by one of the tutorial Youtubers.</br>
+I followed the project made by one of the tutorial Youtubers, changed the button color and learnt a lot.</br>
 url : https://www.youtube.com/watch?v=3dHNOWTI7H8&t=5231s
 
 ![alt text](https://github.com/lisa710junyi/angular-todo-list/blob/master/outcome.png)
